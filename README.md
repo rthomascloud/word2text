@@ -22,7 +22,7 @@ go get github.com/rthomascloud/word2text
 ## Usage
 I am an OpenBSD fan so this is an example of using it on OpenBSD command line.
 
-<img src="resources/screenshot.png" width="150">
+<img src="resources/screenshot.png">
 
 ## Build from source
 ```
