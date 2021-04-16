@@ -51,5 +51,6 @@ temp/
 buildinfo.json
 
 pdf/font.go
+word2text
 
 fuzz.go
